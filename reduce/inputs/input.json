@@ -1,0 +1,27 @@
+[
+ {
+  "firstname": "vinay",
+  "lastname":"v",
+  "id":2973,
+  "state":"ny"
+  },
+   {
+  "firstname": "mike",
+  "lastname":"jordan",
+  "id":2976,
+  "state":"fl"
+  },
+  {
+  "firstname": "steve",
+  "lastname":"smith",
+  "id":2975,
+  "state":"nj"
+  },
+  {
+  "firstname": "vinay",
+  "lastname":"v",
+  "id":2973,
+  "state":"ny"
+  }
+]
+
